@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "autumnty.aternos.me",
-    "port": 25020,
+    "port": 19584,
     "version": "1.21.11",
     "try-creative": false
   },
