@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wahoo.aternos.host",
+    "ip": "sandperch.aternos.host",
     "port": 19584,
     "version": "",
     "try-creative": false
