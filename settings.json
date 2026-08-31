@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "medusafish.aternos.host",
+    "ip": "molly.aternos.host",
     "port": 19584,
     "version": "",
     "try-creative": false
