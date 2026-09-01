@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "molly.aternos.host",
+    "ip": "fish.aternos.host",
     "port": 19584,
     "version": "",
     "try-creative": false
